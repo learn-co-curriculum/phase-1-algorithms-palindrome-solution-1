@@ -30,6 +30,8 @@ As a reminder, here are the instructions:
 
 ## Solution 1
 
+<!-- TODO: Add video walkthrough -->
+
 ### 1. Rewrite the Problem in Your Own Words
 
 We'll start by rewriting the problem in a different way to make sure we

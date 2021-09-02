@@ -308,4 +308,6 @@ optimize its performance, it's a very fine solution!
 ## Conclusion
 
 In this lesson, we applied a problem solving process to one specific algorithm
-problem. In the next lesson, we'll work through an alternate solution and compare the two solutions we came up with from a performance and readability standpoint.
+problem. In the next lesson, we'll work through an alternate solution and
+compare the two solutions we came up with from a performance and readability
+standpoint.

@@ -26,7 +26,7 @@ As a reminder, here are the instructions:
 > return `false` if it is not a palindrome.
 >
 > To keep things simple, your function only needs to deal with lowercase strings
-> that are all one letters (don't worry about spaces or special characters).
+> that are all letters (don't worry about spaces or special characters).
 
 ## Solution 1
 
@@ -38,7 +38,7 @@ We'll start by rewriting the problem in a different way to make sure we
 understand it:
 
 ```txt
-I need to make a isPalindrome function that returns either true or false. When
+I need to make an isPalindrome function that returns either true or false. When
 the input string is the same forwards and backwards, I should return true. That
 means that if the input string is the same after I reverse it, I should return
 true. For instance, "mom" in reverse is also "mom", and "racecar" in reverse is

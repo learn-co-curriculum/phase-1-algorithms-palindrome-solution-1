@@ -37,14 +37,13 @@ As a reminder, here are the instructions:
 We'll start by rewriting the problem in a different way to make sure we
 understand it:
 
-```txt
-I need to make an isPalindrome function that returns either true or false. When
-the input string is the same forwards and backwards, I should return true. That
-means that if the input string is the same after I reverse it, I should return
-true. For instance, "mom" in reverse is also "mom", and "racecar" in reverse is
-also "racecar", so my solution should return true for these cases. "hi" in
-reverse is "ih", so my solution should return false for this case.
-```
+> I need to make an `isPalindrome` function that returns either `true` or
+> `false`. When the input string is the same forwards and backwards, I should
+> return `true`. That means that if the input string is the same after I
+> **reverse** it, I should return true. For instance, `"mom"` in reverse is also
+> `"mom"`, and `"racecar"` in reverse is also `"racecar"`, so my solution should
+> return `true` for these cases. `"hi"` in reverse is `"ih"`, so my solution
+> should return `false` for this case.
 
 Note that this description of the problem highlights the inputs and output
 (return value), and gives us some ideas to explore later in our pseudocode.

@@ -30,7 +30,9 @@ As a reminder, here are the instructions:
 
 ## Solution 1
 
-<!-- TODO: Add video walkthrough -->
+### Video Walkthrough
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3w8Bp44MwPo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ### 1. Rewrite the Problem in Your Own Words
 
